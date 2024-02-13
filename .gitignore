@@ -1,18 +1,3 @@
-.DS_Store
-*.icloud
-*.swp
-.mypy_cache
-__pycache__
-*.pyc
-*.aux
-*.log
-*.nav
-*.out
-*.snm
-*.toc
-*.vrb
-*.cpt
-a.out
-*.obj
-*.o
-*.dSYM
+# Default ignored files
+/shelf/
+/workspace.xml
